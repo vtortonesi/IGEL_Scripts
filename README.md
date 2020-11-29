@@ -1,2 +1,2 @@
 # IGELScripts
-Various IGEL scripts
+PowerShell for IMI, SQL for reporting and SSRS for custom reporting
